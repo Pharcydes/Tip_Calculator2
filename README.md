@@ -5,4 +5,4 @@
 ##### Next you input number of people splitting the bill
 ##### Once that's done it will give total rounded to 2 decimal places.
 
-Part of tutorial series 100 days code this is not the same exact code just remixed in my own way.
+# Part of tutorial project Udemy 100 days code this is not the same exact code just remixed in my own way.
